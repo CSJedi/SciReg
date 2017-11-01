@@ -14,6 +14,6 @@ namespace SciReg.Models
         public Language ArticleLanguage { get; set; }
         public String Text { get; set; }
         public ApplicationUser Publisher { get; set; }
-        //Author(User)
+        public ApplicationUser Author { get; set; }
     }
 }
