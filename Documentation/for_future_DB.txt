@@ -11,14 +11,14 @@ Languages
 
 
 Article
-	-Issue Date
-	Author(User)
-	-Title
+	Issue Date
+	Author(Role) ---?
+	Title
 	Subject
-	-Submit Date
+	Submit Date
 	Content type
-	-ISSN
-	Publisher
+	ISSN
+	Publisher(User)
 	Language
 	Text
 
@@ -30,17 +30,10 @@ Languages
 	ID
 	Name
 
-Publishers
-	ID
-	Name
-
 Subject
 	ID
 	Name
 	
-User
-	ID
-	Role
-	Name
+User - > IdentityUser
 
 Admin
