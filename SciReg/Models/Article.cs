@@ -13,8 +13,7 @@ namespace SciReg.Models
         public String ISSN { get; set; }
         public Language ArticleLanguage { get; set; }
         public String Text { get; set; }
-
+        public ApplicationUser Publisher { get; set; }
         //Author(User)
-        //Publisher(User)
     }
 }
