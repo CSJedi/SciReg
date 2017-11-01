@@ -8,3 +8,39 @@ Edition containing
 ISSN
 Publishers
 Languages
+
+
+Article
+	-Issue Date
+	Author(User)
+	-Title
+	Subject
+	-Submit Date
+	Content type
+	-ISSN
+	Publisher
+	Language
+	Text
+
+Content types
+	ID
+	Name
+
+Languages
+	ID
+	Name
+
+Publishers
+	ID
+	Name
+
+Subject
+	ID
+	Name
+	
+User
+	ID
+	Role
+	Name
+
+Admin
